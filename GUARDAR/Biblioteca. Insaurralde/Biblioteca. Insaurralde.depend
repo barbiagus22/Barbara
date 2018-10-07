@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1538868931 source:c:\users\gonza\desktop\biblioteca\biblioteca. insaurralde\insaurralde.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"insaurralde.h"
+
+1538955381 c:\users\gonza\desktop\biblioteca\biblioteca. insaurralde\insaurralde.h
+
+1538955228 source:c:\users\gonza\desktop\biblioteca\biblioteca. insaurralde\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"insaurralde.h"
+
