@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1538973136 source:c:\users\gonza\desktop\abm\estructuras doble\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estrutura.h"
+
+1538975785 source:c:\users\gonza\desktop\abm\estructuras doble\estrutura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estrutura.h"
+
+1538976110 c:\users\gonza\desktop\abm\estructuras doble\estrutura.h
+
