@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1539042133 source:c:\users\alumno\desktop\barbara insaurralde\abm_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"Insaurralde.Barbara.1G.h"
+
+1539044133 c:\users\alumno\desktop\barbara insaurralde\abm_parcial\insaurralde.barbara.1g.h
+
+1539044150 source:c:\users\alumno\desktop\barbara insaurralde\abm_parcial\insaurralde.barbara.1g.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"Insaurralde.Barbara.1G.h"
+
