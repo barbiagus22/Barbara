@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1539370840 source:c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370641 c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.validaciones.h
+
+1539369992 c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.juegos.h
+
+1539362135 c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.clientes.h
+
+1539317808 c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.alquileres.h
+
+1539364341 source:c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370513 source:c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370077 source:c:\users\gonza\desktop\abm\abm_parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539369992 source:c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539351267 source:c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.1g.informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539357035 c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.1g.informes.h
+
