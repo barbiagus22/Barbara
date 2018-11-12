@@ -1,0 +1,491 @@
+# depslib dependency file v1.0
+1539370840 source:c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370641 c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.validaciones.h
+
+1539369992 c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.juegos.h
+
+1539362135 c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.clientes.h
+
+1539317808 c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.alquileres.h
+
+1539364341 source:c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370513 source:c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370077 source:c:\users\gonza\desktop\abm\abm_parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539369992 source:c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539351267 source:c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.1g.informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539357035 c:\users\gonza\desktop\abm\abm_parcial1\insaurralde.barbara.1g.informes.h
+
+1541403207 source:c:\users\barbara insaurralde\desktop\abm_parcial1\insaurralde.barbara.1g.informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370642 c:\users\barbara insaurralde\desktop\abm_parcial1\insaurralde.barbara.validaciones.h
+
+1541397817 c:\users\barbara insaurralde\desktop\abm_parcial1\insaurralde.barbara.juegos.h
+
+1541362647 c:\users\barbara insaurralde\desktop\abm_parcial1\insaurralde.barbara.clientes.h
+
+1541395648 c:\users\barbara insaurralde\desktop\abm_parcial1\insaurralde.barbara.alquileres.h
+
+1541401276 c:\users\barbara insaurralde\desktop\abm_parcial1\insaurralde.barbara.1g.informes.h
+
+1541403351 source:c:\users\barbara insaurralde\desktop\abm_parcial1\insaurralde.barbara.alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541398088 source:c:\users\barbara insaurralde\desktop\abm_parcial1\insaurralde.barbara.clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541403351 source:c:\users\barbara insaurralde\desktop\abm_parcial1\insaurralde.barbara.juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370514 source:c:\users\barbara insaurralde\desktop\abm_parcial1\insaurralde.barbara.validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541401276 source:c:\users\barbara insaurralde\desktop\abm_parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541534738 source:c:\users\barbara insaurralde\desktop\abm_parcial1-act\insaurralde.barbara.alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370642 c:\users\barbara insaurralde\desktop\abm_parcial1-act\insaurralde.barbara.validaciones.h
+
+1541397817 c:\users\barbara insaurralde\desktop\abm_parcial1-act\insaurralde.barbara.juegos.h
+
+1541534261 c:\users\barbara insaurralde\desktop\abm_parcial1-act\insaurralde.barbara.clientes.h
+
+1541529313 c:\users\barbara insaurralde\desktop\abm_parcial1-act\insaurralde.barbara.alquileres.h
+
+1541531335 c:\users\barbara insaurralde\desktop\abm_parcial1-act\insaurralde.barbara.1g.informes.h
+
+1541534261 source:c:\users\barbara insaurralde\desktop\abm_parcial1-act\insaurralde.barbara.clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541480039 source:c:\users\barbara insaurralde\desktop\abm_parcial1-act\insaurralde.barbara.juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370514 source:c:\users\barbara insaurralde\desktop\abm_parcial1-act\insaurralde.barbara.validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541531335 source:c:\users\barbara insaurralde\desktop\abm_parcial1-act\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541534261 source:c:\users\barbara insaurralde\desktop\abm_parcial1-act\insaurralde.barbara.1g.informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541480040 source:c:\users\alumno\desktop\abm_parcial1-act\insaurralde.barbara.juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370642 c:\users\alumno\desktop\abm_parcial1-act\insaurralde.barbara.validaciones.h
+
+1541397818 c:\users\alumno\desktop\abm_parcial1-act\insaurralde.barbara.juegos.h
+
+1541534262 c:\users\alumno\desktop\abm_parcial1-act\insaurralde.barbara.clientes.h
+
+1541529314 c:\users\alumno\desktop\abm_parcial1-act\insaurralde.barbara.alquileres.h
+
+1541531336 c:\users\alumno\desktop\abm_parcial1-act\insaurralde.barbara.1g.informes.h
+
+1539370514 source:c:\users\alumno\desktop\abm_parcial1-act\insaurralde.barbara.validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541531336 source:c:\users\alumno\desktop\abm_parcial1-act\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541811939 source:c:\users\alumno\desktop\abm_parcial1-act\insaurralde.barbara.1g.informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541811808 source:c:\users\alumno\desktop\abm_parcial1-act\insaurralde.barbara.alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541809869 source:c:\users\alumno\desktop\abm_parcial1-act\insaurralde.barbara.clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541907440 source:c:\users\marie\desktop\hola\insaurralde.barbara.1g.informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370642 c:\users\marie\desktop\hola\insaurralde.barbara.validaciones.h
+
+1541895526 c:\users\marie\desktop\hola\insaurralde.barbara.juegos.h
+
+1541895734 c:\users\marie\desktop\hola\insaurralde.barbara.clientes.h
+
+1541895593 c:\users\marie\desktop\hola\insaurralde.barbara.alquileres.h
+
+1541906916 c:\users\marie\desktop\hola\insaurralde.barbara.1g.informes.h
+
+1541911662 source:c:\users\marie\desktop\hola\insaurralde.barbara.alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541911699 source:c:\users\marie\desktop\hola\insaurralde.barbara.clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541901949 source:c:\users\marie\desktop\hola\insaurralde.barbara.juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370514 source:c:\users\marie\desktop\hola\insaurralde.barbara.validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541911052 source:c:\users\marie\desktop\hola\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541907442 source:c:\users\marie\desktop\parcialabm_1\insaurralde.barbara.1g.informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370642 c:\users\marie\desktop\parcialabm_1\insaurralde.barbara.validaciones.h
+
+1541999750 c:\users\marie\desktop\parcialabm_1\insaurralde.barbara.juegos.h
+
+1541999928 c:\users\marie\desktop\parcialabm_1\insaurralde.barbara.clientes.h
+
+1541999928 c:\users\marie\desktop\parcialabm_1\insaurralde.barbara.alquileres.h
+
+1541999944 c:\users\marie\desktop\parcialabm_1\insaurralde.barbara.1g.informes.h
+
+1541901950 source:c:\users\marie\desktop\parcialabm_1\insaurralde.barbara.juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370514 source:c:\users\marie\desktop\parcialabm_1\insaurralde.barbara.validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541911054 source:c:\users\marie\desktop\parcialabm_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541912496 source:c:\users\marie\desktop\parcialabm_1\insaurralde.barbara.alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541912496 source:c:\users\marie\desktop\parcialabm_1\insaurralde.barbara.clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541907442 source:d:\parcialabm_1\insaurralde.barbara.1g.informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370642 d:\parcialabm_1\insaurralde.barbara.validaciones.h
+
+1541999750 d:\parcialabm_1\insaurralde.barbara.juegos.h
+
+1541999928 d:\parcialabm_1\insaurralde.barbara.clientes.h
+
+1541999928 d:\parcialabm_1\insaurralde.barbara.alquileres.h
+
+1541999944 d:\parcialabm_1\insaurralde.barbara.1g.informes.h
+
+1541912496 source:d:\parcialabm_1\insaurralde.barbara.alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541912496 source:d:\parcialabm_1\insaurralde.barbara.clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541901950 source:d:\parcialabm_1\insaurralde.barbara.juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1539370514 source:d:\parcialabm_1\insaurralde.barbara.validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
+1541911054 source:d:\parcialabm_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Insaurralde.Barbara.Validaciones.h"
+	"Insaurralde.Barbara.Juegos.h"
+	"Insaurralde.Barbara.Clientes.h"
+	"Insaurralde.Barbara.Alquileres.h"
+	"Insaurralde.Barbara.1G.Informes.h"
+
