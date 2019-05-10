@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1557462943 source:c:\users\disco de prueba\desktop\abmpractica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prueba.h"
+	"Validaciones.h"
+	"Libros.h"
+	"Socios.h"
+	"Prestamos.h"
+
+1557377711 c:\users\disco de prueba\desktop\abmpractica\prueba.h
+
+1557456899 source:c:\users\disco de prueba\desktop\abmpractica\prueba.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prueba.h"
+	"Validaciones.h"
+	"Libros.h"
+	"Socios.h"
+	"Prestamos.h"
+
+1557444731 c:\users\disco de prueba\desktop\abmpractica\validaciones.h
+
+1557456899 source:c:\users\disco de prueba\desktop\abmpractica\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prueba.h"
+	"Validaciones.h"
+	"Libros.h"
+	"Socios.h"
+	"Prestamos.h"
+
+1557381043 c:\users\disco de prueba\desktop\abmpractica\libros.h
+
+1557460840 source:c:\users\disco de prueba\desktop\abmpractica\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prueba.h"
+	"Validaciones.h"
+	"Libros.h"
+	"Socios.h"
+	"Prestamos.h"
+
+1557462641 c:\users\disco de prueba\desktop\abmpractica\socios.h
+
+1557463438 source:c:\users\disco de prueba\desktop\abmpractica\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prueba.h"
+	"Validaciones.h"
+	"Libros.h"
+	"Socios.h"
+	"Prestamos.h"
+
+1557462929 c:\users\disco de prueba\desktop\abmpractica\prestamos.h
+
+1557463663 source:c:\users\disco de prueba\desktop\abmpractica\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prueba.h"
+	"Validaciones.h"
+	"Libros.h"
+	"Socios.h"
+	"Prestamos.h"
+
